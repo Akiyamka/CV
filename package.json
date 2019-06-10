@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "lit-html": "^1.1.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "stylus": "^0.54.5"
+  },
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "my CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Akiyamka/CV.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "akiyamka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akiyamka/CV/issues"
+  },
+  "homepage": "https://github.com/Akiyamka/CV#readme"
+}
