@@ -8,7 +8,7 @@ const jobs = [
     project: 'Various GIS systems',
     responsibilities: 'Architecture Design, API Design, Tooling, Estimation and Implementation, UX/UI Design',
     description: `Involved in the design and development of many GIS systems.
-Our tools are designed to assist organizations related to the elimination and prevention of disasters. Among them HOTOSM, Pacific Disaster Center.
+Our tools are designed to assist organizations related to the elimination and prevention of disasters.
 Our tasks include aggregation of data from various sources, their processing and providing an interface for further work with samples.
 In addition to developing UI design drawn and implement by me.`,
     stack: ['React', 'Redux', 'Unistore', 'GraphQl', 'React-Apollo', 'MapBoxGL', 'DeckGL', 'Ava', 'ReactVis', 'Docker', 'Ansible', 'GitLab CI', 'Node.js', 'S3' ]
